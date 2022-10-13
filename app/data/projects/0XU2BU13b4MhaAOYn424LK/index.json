@@ -1,0 +1,25 @@
+{
+    "id": "0XU2BU13b4MhaAOYn424LK",
+    "name": "OTC Conference Center",
+    "models": [
+        {
+            "id": "design",
+            "name": "OTC Conference Center Design"
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.95,
+            0.95,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "models"
+    }
+}
