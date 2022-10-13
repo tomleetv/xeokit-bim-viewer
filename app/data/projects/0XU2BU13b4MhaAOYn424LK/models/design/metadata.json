@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "projectId": "0XU2BU13b4MhaAOYn424LK",
+  "author": "",
+  "createdAt": "2022-08-22T16:12:29",
+  "schema": "IFC2X3",
+  "creatingApplication": "ASIFC - 3.3.0.1287",
+  "metaObjects": [
+    {
+      "id": "0XU2BU13b4MhaAOYn424LK",
+      "name": null,
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "26S6FN$w51vggiJVLDnaqu",
+      "name": null,
+      "type": "IfcSite",
+      "parent": "0XU2BU13b4MhaAOYn424LK"
+    },
+    {
+      "id": "3zVJWk3Fb0HwS0Uon2QZ5X",
+      "name": "",
+      "type": "IfcProxy",
+      "parent": "26S6FN$w51vggiJVLDnaqu"
+    },
+    {
+      "id": "1xea1qWq918OCCc8NprHrV",
+      "name": "",
+      "type": "IfcProxy",
+      "parent": "26S6FN$w51vggiJVLDnaqu"
+    },
+    {
+      "id": "2cos9YZ51CzQn3d$oM3o1j",
+      "name": "",
+      "type": "IfcProxy",
+      "parent": "26S6FN$w51vggiJVLDnaqu"
+    },
+    {
+      "id": "07OogQoqL0G8Ra2XAlHhpy",
+      "name": "",
+      "type": "IfcProxy",
+      "parent": "26S6FN$w51vggiJVLDnaqu"
+    },
+    {
+      "id": "2Kry32G$r0OQVRRBObl$Fx",
+      "name": "",
+      "type": "IfcAnnotation",
+      "parent": "26S6FN$w51vggiJVLDnaqu"
+    }
+  ]
+}

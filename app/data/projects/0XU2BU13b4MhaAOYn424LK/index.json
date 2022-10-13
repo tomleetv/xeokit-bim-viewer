@@ -8,6 +8,7 @@
         }
     ],
     "viewerConfigs": {
+		"externalMetadata": true,
         "backgroundColor": [
             0.95,
             0.95,
