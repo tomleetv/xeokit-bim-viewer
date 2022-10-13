@@ -1,5 +1,5 @@
 {
-  "id": null,
+  "id": "design",
   "projectId": "0XU2BU13b4MhaAOYn424LK",
   "author": "",
   "createdAt": "2022-08-22T16:12:29",
@@ -10,7 +10,7 @@
       "id": "0XU2BU13b4MhaAOYn424LK",
       "name": null,
       "type": "IfcProject",
-      "parent": null
+      "parent": "design"
     },
     {
       "id": "26S6FN$w51vggiJVLDnaqu",
